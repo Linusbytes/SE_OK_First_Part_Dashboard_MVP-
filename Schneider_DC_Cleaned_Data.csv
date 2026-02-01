@@ -1,0 +1,281 @@
+EmployeeID,Name,Department,Date,Roster_Status,Submission_Time,Form_Result,Comment,True_Status
+E001,Worker 1,Sorting,2026-01-19,Active,2026-01-19 06:11:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-20,Active,2026-01-20 07:25:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-21,Absent,,,,Gray
+E001,Worker 1,Sorting,2026-01-22,Active,2026-01-22 07:15:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-23,Active,,,,Missing
+E001,Worker 1,Sorting,2026-01-24,Active,,,,Missing
+E001,Worker 1,Sorting,2026-01-25,Active,2026-01-25 06:21:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-26,Active,2026-01-26 07:46:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-27,Active,,,,Missing
+E001,Worker 1,Sorting,2026-01-28,Active,2026-01-28 07:52:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-29,Active,2026-01-29 06:19:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-30,Active,2026-01-30 06:15:00,OK,,Green
+E001,Worker 1,Sorting,2026-01-31,Active,,,,Missing
+E001,Worker 1,Sorting,2026-02-01,Active,2026-02-01 08:26:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-19,Active,,,,Missing
+E010,Worker 10,Logistics,2026-01-20,Active,2026-01-20 07:32:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-21,Active,2026-01-21 08:52:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-22,Active,,,,Missing
+E010,Worker 10,Logistics,2026-01-23,Active,2026-01-23 07:50:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-24,Active,2026-01-24 07:21:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-25,Active,2026-01-25 06:29:00,NOK,Debris on track,Red
+E010,Worker 10,Logistics,2026-01-26,Active,,,,Missing
+E010,Worker 10,Logistics,2026-01-27,Active,2026-01-27 08:12:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-28,Active,2026-01-28 08:12:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-29,Absent,,,,Gray
+E010,Worker 10,Logistics,2026-01-30,Active,2026-01-30 06:20:00,OK,,Green
+E010,Worker 10,Logistics,2026-01-31,Active,2026-01-31 06:12:00,OK,,Green
+E010,Worker 10,Logistics,2026-02-01,Active,2026-02-01 06:11:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-19,Active,2026-01-19 08:28:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-20,Active,2026-01-20 08:09:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-21,Active,2026-01-21 07:13:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-22,Active,2026-01-22 08:23:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-23,Active,2026-01-23 07:38:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-24,Active,2026-01-24 08:07:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-25,Active,2026-01-25 07:20:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-26,Active,2026-01-26 07:06:00,NOK,Pressure low,Red
+E011,Worker 11,Sorting,2026-01-27,Active,2026-01-27 07:49:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-28,Active,,,,Missing
+E011,Worker 11,Sorting,2026-01-29,Active,2026-01-29 07:15:00,NOK,Safety guard loose,Red
+E011,Worker 11,Sorting,2026-01-30,Active,2026-01-30 07:03:00,OK,,Green
+E011,Worker 11,Sorting,2026-01-31,Active,2026-01-31 08:58:00,OK,,Green
+E011,Worker 11,Sorting,2026-02-01,Absent,,,,Gray
+E012,Worker 12,Sorting,2026-01-19,Active,,,,Missing
+E012,Worker 12,Sorting,2026-01-20,Active,2026-01-20 06:31:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-21,Active,2026-01-21 07:43:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-22,Active,2026-01-22 06:17:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-23,Active,2026-01-23 07:08:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-24,Active,2026-01-24 08:30:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-25,Active,2026-01-25 07:13:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-26,Active,2026-01-26 07:28:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-27,Active,2026-01-27 07:53:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-28,Active,2026-01-28 06:17:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-29,Active,2026-01-29 07:15:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-30,Active,2026-01-30 08:54:00,OK,,Green
+E012,Worker 12,Sorting,2026-01-31,Active,,,,Missing
+E012,Worker 12,Sorting,2026-02-01,Active,2026-02-01 06:42:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-19,Active,2026-01-19 06:28:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-20,Active,,,,Missing
+E013,Worker 13,Logistics,2026-01-21,Active,2026-01-21 07:32:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-22,Active,2026-01-22 08:54:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-23,Active,2026-01-23 07:58:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-24,Active,,,,Missing
+E013,Worker 13,Logistics,2026-01-25,Active,2026-01-25 06:04:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-26,Active,2026-01-26 08:31:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-27,Active,2026-01-27 07:09:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-28,Active,2026-01-28 07:49:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-29,Active,2026-01-29 06:38:00,OK,,Green
+E013,Worker 13,Logistics,2026-01-30,Absent,,,,Gray
+E013,Worker 13,Logistics,2026-01-31,Active,2026-01-31 08:52:00,OK,,Green
+E013,Worker 13,Logistics,2026-02-01,Active,2026-02-01 08:37:00,NOK,Sensor misalignment,Red
+E014,Worker 14,Packaging,2026-01-19,Active,2026-01-19 06:04:00,OK,,Green
+E014,Worker 14,Packaging,2026-01-20,Absent,,,,Gray
+E014,Worker 14,Packaging,2026-01-21,Active,2026-01-21 06:05:00,OK,,Green
+E014,Worker 14,Packaging,2026-01-22,Active,,,,Missing
+E014,Worker 14,Packaging,2026-01-23,Active,,,,Missing
+E014,Worker 14,Packaging,2026-01-24,Active,2026-01-24 06:25:00,OK,,Green
+E014,Worker 14,Packaging,2026-01-25,Active,,,,Missing
+E014,Worker 14,Packaging,2026-01-26,Absent,,,,Gray
+E014,Worker 14,Packaging,2026-01-27,Active,2026-01-27 08:31:00,OK,,Green
+E014,Worker 14,Packaging,2026-01-28,Absent,,,,Gray
+E014,Worker 14,Packaging,2026-01-29,Active,2026-01-29 08:14:00,OK,,Green
+E014,Worker 14,Packaging,2026-01-30,Active,2026-01-30 08:55:00,OK,,Green
+E014,Worker 14,Packaging,2026-01-31,Active,,,,Missing
+E014,Worker 14,Packaging,2026-02-01,Active,2026-02-01 08:44:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-19,Active,2026-01-19 08:14:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-20,Active,,,,Missing
+E015,Worker 15,Logistics,2026-01-21,Active,2026-01-21 06:06:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-22,Active,,,,Missing
+E015,Worker 15,Logistics,2026-01-23,Active,2026-01-23 07:25:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-24,Active,2026-01-24 06:51:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-25,Active,2026-01-25 07:47:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-26,Active,2026-01-26 07:44:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-27,Active,2026-01-27 07:37:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-28,Active,2026-01-28 07:15:00,NOK,Belt jammed,Red
+E015,Worker 15,Logistics,2026-01-29,Active,2026-01-29 08:43:00,NOK,Pressure low,Red
+E015,Worker 15,Logistics,2026-01-30,Active,2026-01-30 07:13:00,OK,,Green
+E015,Worker 15,Logistics,2026-01-31,Active,2026-01-31 08:49:00,NOK,Debris on track,Red
+E015,Worker 15,Logistics,2026-02-01,Active,2026-02-01 08:23:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-19,Active,2026-01-19 08:56:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-20,Active,,,,Missing
+E016,Worker 16,Packaging,2026-01-21,Active,2026-01-21 06:53:00,NOK,Pressure low,Red
+E016,Worker 16,Packaging,2026-01-22,Active,2026-01-22 07:16:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-23,Absent,,,,Gray
+E016,Worker 16,Packaging,2026-01-24,Active,2026-01-24 07:10:00,NOK,Pressure low,Red
+E016,Worker 16,Packaging,2026-01-25,Absent,,,,Gray
+E016,Worker 16,Packaging,2026-01-26,Active,2026-01-26 06:27:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-27,Active,2026-01-27 06:20:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-28,Active,2026-01-28 08:19:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-29,Active,2026-01-29 08:26:00,OK,,Green
+E016,Worker 16,Packaging,2026-01-30,Active,2026-01-30 07:16:00,NOK,Belt jammed,Red
+E016,Worker 16,Packaging,2026-01-31,Active,2026-01-31 07:07:00,OK,,Green
+E016,Worker 16,Packaging,2026-02-01,Active,2026-02-01 06:24:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-19,Active,2026-01-19 07:10:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-20,Active,2026-01-20 06:32:00,NOK,Safety guard loose,Red
+E017,Worker 17,Packaging,2026-01-21,Active,2026-01-21 08:38:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-22,Active,2026-01-22 08:47:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-23,Active,2026-01-23 06:54:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-24,Active,2026-01-24 08:50:00,NOK,Pressure low,Red
+E017,Worker 17,Packaging,2026-01-25,Active,2026-01-25 08:05:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-26,Active,2026-01-26 08:30:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-27,Absent,,,,Gray
+E017,Worker 17,Packaging,2026-01-28,Active,2026-01-28 07:41:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-29,Active,2026-01-29 08:50:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-30,Active,2026-01-30 06:44:00,OK,,Green
+E017,Worker 17,Packaging,2026-01-31,Active,2026-01-31 08:36:00,OK,,Green
+E017,Worker 17,Packaging,2026-02-01,Absent,,,,Gray
+E018,Worker 18,Sorting,2026-01-19,Active,2026-01-19 07:14:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-20,Active,2026-01-20 07:42:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-21,Active,,,,Missing
+E018,Worker 18,Sorting,2026-01-22,Active,2026-01-22 06:17:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-23,Active,2026-01-23 07:10:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-24,Active,,,,Missing
+E018,Worker 18,Sorting,2026-01-25,Absent,,,,Gray
+E018,Worker 18,Sorting,2026-01-26,Active,2026-01-26 08:20:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-27,Active,2026-01-27 07:05:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-28,Active,2026-01-28 07:56:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-29,Absent,,,,Gray
+E018,Worker 18,Sorting,2026-01-30,Active,2026-01-30 08:55:00,OK,,Green
+E018,Worker 18,Sorting,2026-01-31,Active,2026-01-31 08:17:00,OK,,Green
+E018,Worker 18,Sorting,2026-02-01,Active,2026-02-01 07:28:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-19,Active,2026-01-19 08:37:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-20,Active,,,,Missing
+E019,Worker 19,Logistics,2026-01-21,Active,2026-01-21 06:39:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-22,Active,2026-01-22 06:23:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-23,Absent,,,,Gray
+E019,Worker 19,Logistics,2026-01-24,Active,2026-01-24 07:49:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-25,Active,2026-01-25 07:19:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-26,Active,2026-01-26 08:46:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-27,Active,2026-01-27 08:37:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-28,Active,2026-01-28 06:02:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-29,Active,2026-01-29 06:54:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-30,Active,2026-01-30 08:21:00,OK,,Green
+E019,Worker 19,Logistics,2026-01-31,Absent,,,,Gray
+E019,Worker 19,Logistics,2026-02-01,Active,2026-02-01 06:03:00,NOK,Pressure low,Red
+E002,Worker 2,Logistics,2026-01-19,Active,,,,Missing
+E002,Worker 2,Logistics,2026-01-20,Absent,,,,Gray
+E002,Worker 2,Logistics,2026-01-21,Active,2026-01-21 06:36:00,OK,,Green
+E002,Worker 2,Logistics,2026-01-22,Active,2026-01-22 06:03:00,OK,,Green
+E002,Worker 2,Logistics,2026-01-23,Active,2026-01-23 08:03:00,OK,,Green
+E002,Worker 2,Logistics,2026-01-24,Active,2026-01-24 06:55:00,OK,,Green
+E002,Worker 2,Logistics,2026-01-25,Absent,,,,Gray
+E002,Worker 2,Logistics,2026-01-26,Absent,,,,Gray
+E002,Worker 2,Logistics,2026-01-27,Active,2026-01-27 08:01:00,OK,,Green
+E002,Worker 2,Logistics,2026-01-28,Active,,,,Missing
+E002,Worker 2,Logistics,2026-01-29,Active,,,,Missing
+E002,Worker 2,Logistics,2026-01-30,Active,,,,Missing
+E002,Worker 2,Logistics,2026-01-31,Active,2026-01-31 06:15:00,OK,,Green
+E002,Worker 2,Logistics,2026-02-01,Active,2026-02-01 07:22:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-19,Absent,,,,Gray
+E020,Worker 20,Sorting,2026-01-20,Active,2026-01-20 06:46:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-21,Active,2026-01-21 06:44:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-22,Active,2026-01-22 08:14:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-23,Absent,,,,Gray
+E020,Worker 20,Sorting,2026-01-24,Active,2026-01-24 08:32:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-25,Active,2026-01-25 07:14:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-26,Absent,,,,Gray
+E020,Worker 20,Sorting,2026-01-27,Active,,,,Missing
+E020,Worker 20,Sorting,2026-01-28,Active,2026-01-28 08:46:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-29,Active,2026-01-29 08:13:00,OK,,Green
+E020,Worker 20,Sorting,2026-01-30,Active,,,,Missing
+E020,Worker 20,Sorting,2026-01-31,Active,,,,Missing
+E020,Worker 20,Sorting,2026-02-01,Active,2026-02-01 07:56:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-19,Absent,,,,Gray
+E003,Worker 3,Maintenance,2026-01-20,Active,,,,Missing
+E003,Worker 3,Maintenance,2026-01-21,Active,2026-01-21 06:39:00,NOK,Safety guard loose,Red
+E003,Worker 3,Maintenance,2026-01-22,Active,2026-01-22 07:03:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-23,Active,2026-01-23 06:45:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-24,Active,2026-01-24 07:25:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-25,Absent,,,,Gray
+E003,Worker 3,Maintenance,2026-01-26,Active,2026-01-26 07:48:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-27,Active,2026-01-27 08:04:00,NOK,Debris on track,Red
+E003,Worker 3,Maintenance,2026-01-28,Active,2026-01-28 07:11:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-29,Active,2026-01-29 06:34:00,OK,,Green
+E003,Worker 3,Maintenance,2026-01-30,Active,2026-01-30 08:22:00,NOK,Pressure low,Red
+E003,Worker 3,Maintenance,2026-01-31,Active,2026-01-31 06:13:00,OK,,Green
+E003,Worker 3,Maintenance,2026-02-01,Active,2026-02-01 06:12:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-19,Active,2026-01-19 06:02:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-20,Active,2026-01-20 06:05:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-21,Active,2026-01-21 06:17:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-22,Active,2026-01-22 06:17:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-23,Active,2026-01-23 06:23:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-24,Active,2026-01-24 08:31:00,NOK,Pressure low,Red
+E004,Worker 4,Sorting,2026-01-25,Active,2026-01-25 06:24:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-26,Active,2026-01-26 08:52:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-27,Active,2026-01-27 06:05:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-28,Active,2026-01-28 08:56:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-29,Active,2026-01-29 08:10:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-30,Active,2026-01-30 08:07:00,OK,,Green
+E004,Worker 4,Sorting,2026-01-31,Active,2026-01-31 08:22:00,OK,,Green
+E004,Worker 4,Sorting,2026-02-01,Active,2026-02-01 07:06:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-19,Absent,,,,Gray
+E005,Worker 5,Sorting,2026-01-20,Active,,,,Missing
+E005,Worker 5,Sorting,2026-01-21,Active,,,,Missing
+E005,Worker 5,Sorting,2026-01-22,Active,2026-01-22 06:51:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-23,Active,2026-01-23 06:29:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-24,Active,2026-01-24 06:16:00,NOK,Sensor misalignment,Red
+E005,Worker 5,Sorting,2026-01-25,Active,2026-01-25 06:38:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-26,Active,2026-01-26 06:42:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-27,Active,2026-01-27 07:03:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-28,Active,,,,Missing
+E005,Worker 5,Sorting,2026-01-29,Active,,,,Missing
+E005,Worker 5,Sorting,2026-01-30,Active,2026-01-30 08:23:00,OK,,Green
+E005,Worker 5,Sorting,2026-01-31,Active,2026-01-31 07:24:00,OK,,Green
+E005,Worker 5,Sorting,2026-02-01,Active,2026-02-01 07:57:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-19,Active,2026-01-19 08:14:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-20,Active,,,,Missing
+E006,Worker 6,Sorting,2026-01-21,Absent,,,,Gray
+E006,Worker 6,Sorting,2026-01-22,Active,2026-01-22 06:11:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-23,Active,2026-01-23 08:30:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-24,Absent,,,,Gray
+E006,Worker 6,Sorting,2026-01-25,Active,2026-01-25 08:45:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-26,Active,,,,Missing
+E006,Worker 6,Sorting,2026-01-27,Active,,,,Missing
+E006,Worker 6,Sorting,2026-01-28,Active,,,,Missing
+E006,Worker 6,Sorting,2026-01-29,Active,2026-01-29 08:53:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-30,Active,2026-01-30 07:08:00,OK,,Green
+E006,Worker 6,Sorting,2026-01-31,Active,2026-01-31 07:40:00,OK,,Green
+E006,Worker 6,Sorting,2026-02-01,Active,2026-02-01 08:36:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-19,Active,,,,Missing
+E007,Worker 7,Sorting,2026-01-20,Active,2026-01-20 06:37:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-21,Active,2026-01-21 08:26:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-22,Active,2026-01-22 06:57:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-23,Active,2026-01-23 06:48:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-24,Active,2026-01-24 08:55:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-25,Active,2026-01-25 08:45:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-26,Active,2026-01-26 08:09:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-27,Active,,,,Missing
+E007,Worker 7,Sorting,2026-01-28,Active,2026-01-28 07:11:00,NOK,Debris on track,Red
+E007,Worker 7,Sorting,2026-01-29,Active,2026-01-29 07:36:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-30,Active,2026-01-30 07:22:00,OK,,Green
+E007,Worker 7,Sorting,2026-01-31,Absent,,,,Gray
+E007,Worker 7,Sorting,2026-02-01,Active,,,,Missing
+E008,Worker 8,Sorting,2026-01-19,Active,2026-01-19 07:05:00,OK,,Green
+E008,Worker 8,Sorting,2026-01-20,Active,2026-01-20 06:30:00,NOK,Belt jammed,Red
+E008,Worker 8,Sorting,2026-01-21,Active,2026-01-21 06:43:00,OK,,Green
+E008,Worker 8,Sorting,2026-01-22,Absent,,,,Gray
+E008,Worker 8,Sorting,2026-01-23,Active,2026-01-23 06:30:00,OK,,Green
+E008,Worker 8,Sorting,2026-01-24,Active,,,,Missing
+E008,Worker 8,Sorting,2026-01-25,Active,2026-01-25 06:39:00,NOK,Belt jammed,Red
+E008,Worker 8,Sorting,2026-01-26,Active,2026-01-26 08:12:00,OK,,Green
+E008,Worker 8,Sorting,2026-01-27,Active,,,,Missing
+E008,Worker 8,Sorting,2026-01-28,Active,2026-01-28 06:07:00,OK,,Green
+E008,Worker 8,Sorting,2026-01-29,Active,2026-01-29 06:11:00,OK,,Green
+E008,Worker 8,Sorting,2026-01-30,Absent,,,,Gray
+E008,Worker 8,Sorting,2026-01-31,Absent,,,,Gray
+E008,Worker 8,Sorting,2026-02-01,Absent,,,,Gray
+E009,Worker 9,Maintenance,2026-01-19,Active,2026-01-19 08:58:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-20,Active,2026-01-20 08:35:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-21,Active,2026-01-21 06:33:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-22,Active,2026-01-22 08:40:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-23,Active,,,,Missing
+E009,Worker 9,Maintenance,2026-01-24,Active,2026-01-24 06:40:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-25,Active,2026-01-25 08:52:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-26,Active,2026-01-26 08:01:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-27,Active,2026-01-27 06:34:00,NOK,Debris on track,Red
+E009,Worker 9,Maintenance,2026-01-28,Active,2026-01-28 07:16:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-29,Active,2026-01-29 08:34:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-30,Active,2026-01-30 06:12:00,OK,,Green
+E009,Worker 9,Maintenance,2026-01-31,Active,2026-01-31 07:09:00,OK,,Green
+E009,Worker 9,Maintenance,2026-02-01,Active,2026-02-01 08:03:00,OK,,Green

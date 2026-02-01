@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schneider Compliance Dashboard - CCTV Mode</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* Hide scrollbars for full TV immersion */
+            background-color: #1A1A1A; /* Match Dashboard Dark Mode */
+        }
+        #tableauViz {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- 
+      INSTRUCTIONS:
+      1. Publish your Tableau Dashboard to Tableau Server or Tableau Public.
+      2. Copy the "Share" link (e.g., https://public.tableau.com/views/...).
+      3. Paste it into the 'src' attribute below.
+      4. Add '?:showVizHome=no&:embed=true' to the end of the URL for clean mode.
+    -->
+    <iframe 
+        id="tableauViz" 
+        src="REPLACE_WITH_YOUR_TABLEAU_URL?:showVizHome=no&:embed=true&:toolbar=bottom"
+        allowfullscreen>
+    </iframe>
+
+    <script type="text/javascript">
+        // --- CONFIGURATION ---
+        const REFRESH_INTERVAL_MINUTES = 5; 
+        // ---------------------
+
+        function refreshDashboard() {
+            const viz = document.getElementById('tableauViz');
+            // Reloading the iframe forces Tableau to fetch fresh data
+            viz.src = viz.src; 
+            console.log("Dashboard refreshed at: " + new Date().toLocaleTimeString());
+        }
+
+        // Convert minutes to milliseconds
+        const intervalMs = REFRESH_INTERVAL_MINUTES * 60 * 1000;
+        
+        // Start the Timer
+        setInterval(refreshDashboard, intervalMs);
+
+    </script>
+</body>
+</html>
