@@ -1510,7 +1510,7 @@
             const now = new Date();
             const dateStr = now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' }).replace(/ /g, '-');
             const timeStr = now.toLocaleTimeString('en-GB');
-            document.getElementById('kpiTimestamp').textContent = `⟳ DISS KPI: ${dateStr} ${timeStr}`;
+            document.getElementById('kpiTimestamp').textContent = `⟳ Last Updated: ${dateStr} ${timeStr}`;
         }
 
         // Worker Detail Panel
